@@ -110,22 +110,19 @@ Contributions are welcome! Feel free to open issues or submit pull requests for:
 
 ---
 
-## SEO Tags  
+## SEO Tags
 
-```
+```html
 <!-- Primary Keywords -->
-<meta name="keywords" content="IODD parser, IO-Link sensor, C++ XML parser, IODD file reader, ezxml parser, IO-Link device description, industrial automation">
+<meta name="keywords" content="IODD parser, IO-Link sensor, C++ XML parser, IODD file reader, industrial automation, XML file handler, ezxml parser">
+
 <!-- Description -->
-<meta name="description" content="A lightweight C++ parser for IODD (IO Device Description) files. Supports various IO-Link sensors and manufacturers, making industrial automation seamless.">
+<meta name="description" content="A lightweight C++ parser for IODD (IO Device Description) files. Supports IO-Link sensors from manufacturers like Balluff and ifm. Perfect for industrial automation.">
+
 <!-- Robots -->
 <meta name="robots" content="index, follow">
+
 ```
-
----
-
-## License  
-
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
