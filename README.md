@@ -57,7 +57,7 @@ This project provides a C++ parser for **IODD (IO Device Description)** files, e
 
    ```bash
    git clone https://github.com/longntv/iodd_parser_cpp
-   cd iodd-file-parser
+   cd iodd_parser_cpp
    ```
 
 2. Build the project:  
